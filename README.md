@@ -83,14 +83,6 @@ python openpose.py --input image.jpg
 
 python openpose.py --input image.jpg --thr 0.5
 
-
----
-
-## Output
-The system detects human body joints and displays the pose skeleton.
-
-![Output](output.JPG)
-
 ---
 
 ## Model File
