@@ -51,7 +51,7 @@ human-pose-estimation-opencv/
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/human-pose-estimation-opencv.git
+git clone https://github.com/sahare-mayur-0071/human-pose-estimation-opencv.git
 
 cd human-pose-estimation-opencv
 
