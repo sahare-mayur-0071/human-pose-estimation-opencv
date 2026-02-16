@@ -1,0 +1,53 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environment
+# ===============================
+venv/
+env/
+.venv/
+
+# ===============================
+# IDE / Editor files
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Logs & temp files
+# ===============================
+*.log
+*.tmp
+
+# ===============================
+# Model / Large binary files
+# (comment this if you WANT to push graph_opt.pb)
+# ===============================
+*.pb
+
+# ===============================
+# Output / generated images & videos
+# (comment if you want them on GitHub)
+# ===============================
+# output/
+*.jpg
+*.png
+*.mp4
